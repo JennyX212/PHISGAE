@@ -1,0 +1,293 @@
+1,Acholeplasma laidlawii,,NZ_LS483439.1
+2,Achromobacter xylosoxidans,,NZ_CP014065.1
+3,Acidianus brierleyi,,NZ_CP029289.2
+4,Acidianus convivator,,AJ634763.1
+5,Acidianus hospitalis,,NC_015518.1
+6,Acidianus pozzuoliensis,,AJ884675.1
+7,Acidianus uzoniensis,,0
+8,Acidithiobacillus caldus,,NZ_CP005986.1
+9,Acinetobacter,,NZ_CP043953.1
+10,Acinetobacter baumannii,,NZ_CP096722.1
+11,Acinetobacter johnsonii,,CP090416.1
+12,Acinetobacter soli,,NZ_CP073241.1
+13,Actinobacillus actinomycetemcomitans,,NZ_CP093912.1
+14,Actinomyces naeslundii,,NZ_CP066049.1
+15,Aeromonas hydrophila,,NZ_CP050851.1
+16,Aeromonas media,,NZ_CP075564.1
+17,Aeromonas salmonicida,,NZ_CP051883.1
+18,Aeromonas sp. ASNIH4,,NZ_CP026217.1
+19,Aggregatibacter actinomycetemcomitans,,NC_017846.2
+20,Agrobacterium sp. 33MFTa1.1,,CP036358.1
+21,Aliivibrio fischeri,,NZ_CP092713.1
+22,Alteromonas macleodii,,NC_018679.1
+23,Anabaena variabilis,,NC_007413.1
+24,Arthrobacter sp. FB24,NC_008541.1,0
+25,Azospirillum brasilense,, NZ_CP033323.1
+26,Bacillus thuringiensis,,NZ_CP035736.1
+27,Bacillus anthracis,,NZ_CP009544.1
+28,Bacillus cereus,,NZ_CP017060.1
+29,Bacillus megaterium,,NC_014103.1
+30,Bacillus pumilus,,NZ_CP010997.1
+31,Bacillus sp. H15-1,,NZ_CP018249.1
+32,Bacillus subtilis,,NZ_CP018184.1
+33,Bacillus weihenstephanensis,,NC_010180.1
+34,Bacteroides fragilis,,NC_003228.3
+35,Bdellovibrio bacteriovorus,,NC_005363.1
+36,Bordetella bronchiseptica,,NZ_AP014582.1
+37,Brevibacterium flavum,,CP079240.1
+38,Brochothrix thermosphacta,,NZ_CP023643.1
+39,Brucella abortus,,NZ_CP030751.1
+40,Brucella canis,,NZ_CP007758.1
+41,Brucella melitensis,,NC_003317.1
+42,Brucella sp. 2002734562,,NZ_CP016979.1
+43,Brucella suis,,NC_004310.3
+44,Burkholderia ambifaria,,NZ_CP066037.1
+45,Burkholderia cenocepacia,,NC_008542.1
+46,Burkholderia cepacia,,NZ_CP045235.1
+47,Burkholderia pseudomallei,,NC_017831.1
+48,Burkholderia pyrrocinia,,NZ_CP011503.1
+49,Burkholderia thailandensis,,NZ_CP020392.1
+50,Campylobacter jejuni,,NZ_CP012221.1
+51,Campylobacter sp. RM12175,NZ_CP018793.1,0
+52,Candidatus Hamiltonella defensa,,NZ_CP017606.1
+53,Candidatus Hoaglandella endobia,,NZ_LN999835.1
+54,Candidatus Liberibacter americanus,,NC_022793.1
+55,Candidatus Pelagibacter ubique,,NC_007205.1
+56,Candidatus Puniceispirillum marinum,,NC_014010.1
+57,Caulobacter vibrioides,,NC_011916.1
+58,Celeribacter sp.,,NC_002696.2
+59,Cellulophaga baltica,,NZ_CP058989.1
+60,Cellulophaga sp. L1A9,,NZ_CP047027.1
+61,Chlamydia pecorum,,NZ_CP080401.1
+62,Chlamydia pneumoniae,,NC_002179.2
+63,Chlamydia psittaci,,NC_017287.1
+64,Chlamydophila abortus,,NC_004552.2
+65,Citrobacter rodentium,,NC_013716.1
+66,Clavibacter michiganensis,,NZ_CP033724.1
+67,Clostridioides difficile,,NZ_CP076401.1
+68,Clostridium botulinum,,NZ_CP013707.1
+69,Clostridium perfringens,,NZ_CP075979.1
+70,Clostridium sporogenes,,NZ_CP084662.1
+71,Colwellia psychrerythaea,,0
+72,Corynebacterium glutamicum,,NC_021352.1
+73,Croceibacter atlanticus,,NC_014230.1
+74,Cronobacter sakazakii,,NZ_CP027107.1
+75,Cronobacter turicensis,,FN543093
+76,Delftia acidovorans,,NC_010002.1
+77,Dickeya solani,,NZ_CP017454.1
+78,Dickeya sp. Secpp 1600,,NZ_CP023484.1
+79,Dinoroseobacter shibae,,NC_009952.1
+80,Edwardsiella ictaluri,,NZ_CP084521.1
+81,Enterobacter cancerogenus,,NZ_CP025225.1
+82,Enterobacter cloacae,,NZ_CP083821.1
+83,Enterobacteriaceae,,0
+84,Enterococcus faecalis,,NZ_CP124911.1
+85,Enterococcus faecium,,NZ_CP038996.1
+86,Enterococcus sp. CR-Ec1,,NZ_CP025223.1
+87,Erwinia amylovora,,NC_013961.1
+88,Erwinia pyrifoliae,,NZ_CP023567.1
+89,Erwinia sp. Ejp617,NC_017445.1,0
+90,Escherichia coli,,NZ_CP032795.1
+91,Escherichia sp. E4742,,NZ_CP040443.1
+92,Flavobacterium album,,NZ_CP029186.1
+93,Flavobacterium psychrophilum,,NZ_CP039120.2
+94,Geobacillus,,NZ_CP061473.1
+95,Geobacillus kaustophilus,,NC_006510.1
+96,Geobacillus sp. Y412MC52,NC_014915.1,0
+97,Gordonia rubropertincta,,NZ_CP059694.1
+98,Gordonia terrae,,NZ_CP096585.1
+99,group C Streptococci ,,#N/A
+100,Haemophilus influenzae,,NZ_CP007470.1
+101,Haemophilus parasuis,,0
+102,Haloarcula californiae,,0
+103,Haloarcula hispanica,,NC_023013.1
+104,Haloarcula sinaiiensis,,NZ_CP073366.1
+105,Haloarcula vallismortis,,0
+106,Halogeometricum sp.,,NC_014729.1
+107,Halogranum sp.,,0
+108,Halorubrum coriense,,0
+109,Halorubrum sodomense,,0
+110,Halorubrum sp.,,NZ_CP098415.1
+111,Helicobacter pylori,,NZ_CP071981.1
+112,Idiomarinaceae bacterium,,0
+113,Iodobacter sp. H11R3,,NZ_CP034433.1
+114,Klebsiella oxytoca,,NZ_CP033844.1
+115,Klebsiella pneumoniae,,NZ_CP103548.1
+116,Klebsiella sp. LTGPAF-6F,,NZ_CP017450.1
+117,Lactobacillus,,0
+118,Lactobacillus casei,,NZ_AP012544.1
+119,Lactobacillus delbrueckii,,NZ_CP018218.1
+120,Lactobacillus fermentum,,NZ_CP094655.1
+121,Lactobacillus gasseri,,NC_008530.1
+122,Lactobacillus jensenii,,NZ_CP018809.1
+123,Lactobacillus johnsonii,,NC_013504.1
+124,Lactobacillus paracasei,,NZ_CP013921.1
+125,Lactobacillus plantarum,,0
+126,Lactobacillus rhamnosus,,NZ_CP040780.1
+127,Lactobacillus sp. CBA3606,,NZ_CP027194.1
+128,Lactococcus,,0
+129,Lactococcus allomyrinae,,NZ_CP032627.1
+130,Lactococcus garvieae,,NZ_CP065637.1
+131,Lactococcus lactis,,NZ_CP059048.1
+132,Lelliottia sp. WB101,,NZ_CP028520.1
+133,Leptolyngbya foveolara,,0
+134,Leuconostoc mesenteroides,,NZ_CP028251.1
+135,Leuconostoc pseudomesenteroides,,NZ_CP065993.1
+136,Listeria,,0
+137,Listeria monocytogenes,,NZ_CP025443.1
+138,Listeria sp. PSOL-1,,NZ_LR760298.1
+139,Listonella pelagia,,NZ_CP090614.1
+140,Loktanella sp.,,NZ_CP072994.1
+141,Mannheimia haemolytica,,NZ_CP023044.1
+142,Marinomonas sp. MWYL1,NC_009654.1,0
+143,Mesorhizobium loti,,NZ_CP033368.1
+144,Methanobacterium thermoautotrophicum,,0
+145,Microbacterium nematophilum,,0
+146,Microbacterium oxydans,,NZ_CP031422.1
+147,Microcystis aeruginosa,,NZ_CP046058.1
+148,Morganella morganii,,NZ_CP043955.1
+149,Mycobacterium abscessus,,NZ_CP065183.1
+150,Mycobacterium avium,,NZ_CP046507.1
+151,Mycobacterium smegmatis,,NZ_CP080272.1
+152,Mycobacterium tuberculosis,,NZ_CP069069.1
+153,Mycobacteruim smegmatis,,0
+154,Mycoplasma arthritidis,,0
+155,Mycoplasma fermentans,,NC_014921.1
+156,Mycoplasma pulmonis,,AL445566
+157,Mycoplasma sp. (ex Biomphalaria glabrata),NZ_CP013128.1,0
+158,Myxococcus xanthus,,NC_008095.1
+159,Nanohaloarchaea archaeon,,CP046106.1
+160,Nitrincola sp. KXZD1103,,NZ_CP044222.1
+161,Nocardia brasiliensis,,NZ_CP022088.2
+162,Oenococcus oeni,,NZ_CP084701.1
+163,Paenibacillus glucanolyticus,,NZ_CP028366.1
+164,Paenibacillus larvae,,NZ_CP019659.1
+165,Pantoea agglomerans,,NZ_CP077366.1
+166,Paracoccus marcusii,,NZ_CP065892.1
+167,Pasteurella multocida,,NZ_CP020405.2
+168,Pathenogenic salmonella,,0
+169,Pectobacterium atrosepticum,,0
+170,Pectobacterium carotovorum,,0
+171,Persicivirga sp.,,0
+172,Planktothrix agardhii,,NZ_LR882952.1
+173,Prochlorococcus marinus,,NC_008817.1
+174,Prochlorococcus med4,,0
+175,Prochlorococcus med5,,#N/A
+176,Prochlorococcus med6,,#N/A
+177,Prochlorococcus mit9303,,0
+178,Prochlorococcus mit9313,,0
+179,Prochlorococcus natl2a,,0
+180,Prochlorococcus sp. MIT 0604,NZ_CP007753.1,0
+181,Propionibacterium acnes,,NC_021085.1
+182,Propionibacterium freudenreichii,,NZ_LT593929.1
+183,Providencia stuartii,,NZ_CP119546.1
+184,Pseudoalteromonas marina,,NZ_CP023558.1
+185,Pseudoalteromonas phenolica,,NZ_CP013187.1
+186,Pseudoalteromonas sp. NC201,,NZ_CP022522.1
+187,Pseudomonas aeruginosa,,NZ_CP012901.1
+188,Pseudomonas chlororaphis,,NZ_CP061079.1
+189,Pseudomonas fluorescens,,NZ_CP015637.1
+190,Pseudomonas putida,,NC_021505.1
+191,Pseudomonas syringae,,NZ_CP074578.1
+192,Pseudomonas tolaasii,,NZ_CP065824.1
+193,Psychrobacter sp. G,NC_021661.1,0
+194,Pyrococcus abyssi,,NC_000868.1
+195,Ralstonia pickettii,,NZ_CP066771.1
+196,Ralstonia solanacearum,,NZ_CP051169.1
+197,Rhizobium etli,,NZ_CP020906.1
+198,Rhizobium gallicum,,NZ_CP017101.1
+199,Rhizobium leguminosarum,,NZ_CP025012.1
+200,Rhizobium radiobacter,,NZ_CP033031.1
+201,Rhodobacter capsulatus,,NC_014034.1
+202,Rhodobacter sp. LPB0142,NZ_CP017781.1,0
+203,Rhodococcus equi,,NZ_CP021354.1
+204,Rhodococcus erythropolis,,NZ_CP007255.1
+205,Rhodococcus globerulus,,NZ_CP079698.1
+206,Rhodococcus rhodochrous,,NZ_LT906450.1
+207,Rhodothermus marinus,,NC_013501.1
+208,Rhodovulum sp. P5,NZ_CP015039.1,0
+209,Riemerella anatipestifer,,NZ_CP072186.1
+210,Roseobacter denitrificans,,NZ_CP027407.1
+211,Roseobacter sio67,,NZ_CP048788.1
+212,Ruegeria pomeroyi,,NC_003911.12
+213,Salicola sp.,,0
+214,Salinivibrio costicola,,NZ_CP050266.1
+215,Salisaeta sp.,,0
+216,Salmonella enterica,,NZ_CP113539.1
+217,Salmonella enteritidis,,NZ_CP085814.1
+218,Salmonella gallinarum,,NZ_CP088134.1
+219,Salmonella paratyphi,,NC_006511.1
+220,Salmonella serovar,,0
+221,Salmonella sp. SSDFZ54,,NZ_CP034819.1
+222,Salmonella typhimurium,,NC_003197.2
+223,Serratia marcescens,,NZ_CP027798.1
+224,Serratia sp. FS14,NZ_CP005927.1,0
+225,Shewanella putrefaciens,,NZ_CP104755.1
+226,Shigella boydii,,NC_007613.1
+227,Shigella flexneri,,NC_004337.2
+228,Shigella sonnei,,NZ_CP055292.1
+229,Sinorhizobium meliloti,,NC_020528.1
+230,Sodalis glossinidius,,NC_007712.1
+231,Sphingomonas paucimobilis,,NZ_CP065670.1
+232,Spiroplasma citri,,NZ_CP013197.1
+233,Spiroplasma kunkelii,,NZ_CP010899.1
+234,Staphylococcus aureus,NC_021670.1,0
+235,Staphylococcus capitis,,NZ_CP102089.1
+236,Staphylococcus epidermidis,,NZ_CP035288.1
+237,Staphylococcus hominis,,NZ_CP033732.1
+238,Staphylococcus pasteuri,,NZ_CP067014.1
+239,Staphylococcus saprophyticus,,NZ_CP031196.1
+240,Staphylococcus xylosus,,NZ_CP008724.1
+241,Stenotrophomonas maltophilia,,NZ_LS483377.1
+242,Streptococcus agalactiae,NZ_HG939456.1,0
+243,Streptococcus dysgalactiae,,NZ_CP068057.1
+244,Streptococcus equi,,NZ_CP065061.1
+245,Streptococcus gordonii,,NZ_LR594049.1
+246,Streptococcus mitis,,NZ_CP014326.1
+247,Streptococcus mutans,,NZ_CP044221.1
+248,Streptococcus oralis,,NZ_CP094226.1
+249,Streptococcus pneumoniae,,NZ_CP071871.1
+250,Streptococcus pyogenes,,NZ_CP031770.1
+251,Streptococcus salivarius,,NZ_CP090007.1
+252,Streptococcus suis,,NC_012926.1
+253,Streptococcus thermophilus,,NZ_CP025216.1
+254,streptomyces aureofaciens,,0
+255,Streptomyces avermitilis,,NC_003155.5
+256,Streptomyces coelicolor,,NZ_CP050522.1
+257,Streptomyces dengpaensis,,NZ_CP026652.1
+258,Streptomyces lividans,,NZ_CP009124.1
+259,Streptomyces venezuelae,,NZ_CP018074.1
+260,Sulfitobacter sp. AM1-D1,NZ_CP018076.1,0
+261,Sulfolobus,,NZ_CP020364.1
+262,Sulfolobus islandicus,,NC_021058.1
+263,Sulfolobus solfataricus,,NC_002754.1
+264,Sulfolobus sp.,,NZ_CP045687.1
+265,Sulfolobus tengchongensis,,0
+266,Synechococcus sp. PCC 6312,NC_019680.1,0
+267,Tetraselmis sp.,,0
+268,Tetrasphaera jenkinsii,,0
+269,Thalassomonas loyana,,0
+270,Thermoanaerobacterium saccharolyticum,,NC_017992.1
+271,Thermococcus sp.,,NZ_CP014862.1
+272,Thermus thermophilus,,NC_006461.1
+273,Tsukamurella paurometabola,,NC_014158.1
+274,Cronobacter sakazakii ES15 ,,NC_017933.1
+275,Vibrio alginolyticus,,NZ_CP098033.1
+276,Vibrio anguillarum,,NC_022223.1
+277,Vibrio cholerae,,NZ_CP043554.1
+278,Vibrio harveyi,,NZ_CP009467.1
+279,Vibrio natriegens,,NZ_CP016349.1
+280,Vibrio parahaemolyticus,,NC_004603.1
+281,Vibrio sp. dhg,,NZ_CP028943.1
+282,Vibrio splendidus,,NZ_CP089203.1
+283,Vibrio vulnificus,,NZ_CP016321.1
+284,Weissella cibaria,,NZ_CP013934.1
+285,Wolbachia endosymbiont of Cimex lectularius,,NZ_AP013028.1
+286,Xanthomonas axonopodis,,NZ_CP053649.1
+287,Xanthomonas campestris,,NZ_CP066925.1
+288,Xanthomonas citri,,NZ_CP008998.1
+289,Xanthomonas oryzae,,NZ_CP013676.1
+290,Xanthomonas vesicatoria,,NZ_CP018725.1
+291,Xylella fastidiosa,,NC_004556.1
+292,Yersinia enterocolitica,,NC_008800.1
+293,Yersinia pestis,,CP045158.1
