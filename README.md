@@ -56,14 +56,12 @@ python pro_f.py   ####compute features derived from DNA and protein sequences
 ```
 git clone https://github.com/JennyX212/PHISGAE
 cd PHISGAE/code
-python main.py  #### train model	 
+python main.py  --input = "input_path" --output = "output_path"	 #### train model and get the prediction result
 ```
 
-You just need to run `python main.py` to get the result of PHISGAE for predicting phage-host interactions at species level. 
+You just need to run `python main.py` and type `input =../data/train/species/` to train PHISGAE and get the result of PHISGAE for predicting phage-host interactions at species level. You can save the result by typing `output ="output_path"`, where "output_path" is the file path of the outcome. Besides, if you want the prediction results at different taxonomic level, you can directly modify the input path when typing `input = ` and change "species" to the other taxonomic level.
 
-Besides, if you want the prediction results at different taxonomic level, you can directly modify the input path in **main.py** and change "species" to the other taxonomic level.
-
-
+If you want to run PHISGAE with your own dataset, simply enter the path to the data set in the input prompt.
 ### Contact
 
 Please feel free to contact us if you need raw data or any other help.
